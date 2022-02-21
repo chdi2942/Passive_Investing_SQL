@@ -86,5 +86,4 @@ For this part of the program, we will complete the following steps:
 
 2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Included below.
 
-
-![voila](voila.png)
+![voila](https://user-images.githubusercontent.com/96210633/154882688-641fa6b2-9e65-465e-8e30-e4981d7eedb0.PNG)
