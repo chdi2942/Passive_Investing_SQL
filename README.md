@@ -86,6 +86,5 @@ For this part of the program, we will complete the following steps:
 
 2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Included below.
 
-```md
-![alt text](./voila.png)
-```
+
+![alt text](voila.png)
