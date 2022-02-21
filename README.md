@@ -4,7 +4,7 @@
 
 In this program, we will build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
-Summary: 
+### Summary: 
 
 We will use this notebook to complete our analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the `etf.db` database.  We will:
 
@@ -87,3 +87,9 @@ For this part of the program, we will complete the following steps:
 2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Included below.
 
 ![voila](https://user-images.githubusercontent.com/96210633/154882688-641fa6b2-9e65-465e-8e30-e4981d7eedb0.PNG)
+
+### Requirements:
+* Python 3.7
+* Pandas
+* HVPlot
+* SQLalchemy
